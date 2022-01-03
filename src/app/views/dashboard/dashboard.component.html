@@ -1,0 +1,90 @@
+<div class="animated fadeIn">
+  <ul class="nav navbar-nav">
+    <input
+      [(ngModel)]="search"
+      (input)="searchValue($event)"
+      type="text"
+      class="form-control"
+      id="name"
+      placeholder="Search Weapons"
+    />
+  </ul>
+  <div style="margin-top: 20px" class="row">
+    <div *ngFor="let item of types" class="col-sm-2 col-lg-2">
+      <div>
+        <button
+          style="margin: 10px"
+          (click)="sort(item)"
+          type="button"
+          class="btn btn-block btn-success"
+        >
+          {{ item }}
+        </button>
+      </div>
+    </div>
+
+    <!--/.col-->
+  </div>
+  <div style="margin-top: 20px" class="row">
+    <div *ngFor="let item of weapons" class="col-sm-6 col-lg-3">
+      <div
+        (click)="weaponDetail(item)"
+        class="card text-white"
+        style="background-color: #73142c"
+      >
+        <div class="card-body pb-0">
+          <button
+            hidden
+            type="button"
+            class="btn btn-transparent p-0 float-right"
+          >
+            <i class="icon">
+              <img
+                style="width: 30px; height: 30px"
+                src="../../../assets/img/attachments/sights/Bravo 3x.png"
+                alt=""
+              />
+            </i>
+          </button>
+          <button
+            hidden
+            type="button"
+            class="btn btn-transparent p-0 float-right"
+          >
+            <i class="icon">
+              <img
+                style="width: 30px; height: 30px"
+                src="../../../assets/img/attachments/barrel/Shortened Barrel.png"
+                alt=""
+              />
+            </i>
+          </button>
+          <button
+            hidden
+            type="button"
+            class="btn btn-transparent p-0 float-right"
+          >
+            <i class="icon">
+              <img
+                style="width: 30px; height: 30px"
+                src="../../../assets/img/attachments/ammo/AK-24 High-Power.png"
+                alt=""
+              />
+            </i>
+          </button>
+          <div class="text-value">{{ item.name }}</div>
+          <div>{{ item.weaponClass }}</div>
+        </div>
+        <div class="chart-wrapper mt-3 mx-3">
+          <img
+            [src]="weaponImage(item)"
+            alt="First slide"
+            style="width: 100%"
+          />
+        </div>
+      </div>
+    </div>
+
+    <!--/.col-->
+  </div>
+</div>

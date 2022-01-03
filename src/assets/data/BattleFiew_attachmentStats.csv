@@ -1,0 +1,669 @@
+attachment_id,Attachment Type,Attachment Name,FirePower,Accuracy,Range (mtr),Handling,Rate of Fire (rpm),Mag Size,Fire Modes,Zoom Level,Attachment Details Positives,Attachment Details Negatives,Weapon Name
+1,Ammo,Close Combat,-5,-5,-5,+5,850,40,Single/Auto,1.25,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,PBX-45
+2,Ammo,High-Power,+5,+5,+5,-5,750,25,Single/Auto,1.25,+ Effective Range,- Recoil Control; - Reload Speed; - Rate of Fire,PBX-45
+3,Ammo,Standard Issue/Extended MAG,0,0,0,-5,800,40,Single/Auto,1.25,+ Ammo Capacity,- Reload Speed,PBX-45
+4,Ammo,Standard Issue,0,0,0,0,800,30,Single/Auto,1.25,NULL,NULL,PBX-45
+5,Ammo,Subsonic,-5,0,-5,-5,750,30,Single/Auto,1.25,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,PBX-45
+6,Barrel,6KU Suppressor,-5,0,0,0,800,30,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,PBX-45
+7,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,800,30,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,PBX-45
+8,Barrel,Champion Muzzle Brake,0,+2,0,0,800,30,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,PBX-45
+9,Barrel,Extended Barrel,0,+5,+5,-5,800,30,Single/Auto,1.25,+ Projectile Velocity,- Rate of Fire,PBX-45
+10,Barrel,Factory Barrel,0,0,0,0,800,30,Single/Auto,1.25,NULL,NULL,PBX-45
+11,Barrel,Tactical Compensator,0,+2,0,0,800,30,Single/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,PBX-45
+12,Barrel,Warhawk Compensator,0,+2,0,0,800,30,Single/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,PBX-45
+13,Barrel,Wrapped Suppressor,-5,0,0,0,800,30,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,PBX-45
+14,Sights,8R Holo,0,0,0,0,800,30,Single/Auto,1.50,+ Enhanced Target Visibility,NULL,PBX-45
+15,Sights,Bravo 3X,0,0,+3,-3,800,30,Single/Auto,3.00,+ Zoom Level,- Aiming Down Sight Speed,PBX-45
+16,Sights,DD Holo,0,0,0,0,800,30,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,PBX-45
+17,Sights,Fusion Holo,0,0,0,0,800,30,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,PBX-45
+18,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,800,30,Single/Auto,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,PBX-45
+19,Sights,Iron Sights,0,0,0,0,800,30,Single/Auto,1.25,NULL,NULL,PBX-45
+20,Sights,K8 Holo,0,0,0,0,800,30,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,PBX-45
+21,Sights,M22 3.5X,0,0,+4,-4,800,30,Single/Auto,3.50,+ Zoom Level,- Aiming Down Sight Speed,PBX-45
+22,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,800,30,Single/Auto,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,PBX-45
+23,Sights,Raven 4X,0,0,+5,-5,800,30,Single/Auto,4.00,+ Zoom Level,- Aiming Down Sight Speed,PBX-45
+24,Sights,Shan 2.5X,0,0,+2,-2,800,30,Single/Auto,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,PBX-45
+25,Sights,TV 2X,0,0,+1,-1,800,30,Single/Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,PBX-45
+26,Sights,UH-1SMART 1.5X,0,0,0,-1,800,30,Single/Auto,1.50,+ Enhanced Target Visibility; Target Info,- Aiming Down Sight Speed,PBX-45
+27,Sights,XDR Holo,0,0,0,0,800,30,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,PBX-45
+28,Underbarrel,BCG Light Grip,0,+5,+2,0,800,30,Single/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,PBX-45
+29,Underbarrel,Cobra Grip,0,+5,+2,0,800,30,Single/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,PBX-45
+30,Underbarrel,Factory Mounts,0,0,0,0,800,30,Single/Auto,1.25,NULL,NULL,PBX-45
+31,Underbarrel,Flashlight,0,0,0,0,800,30,Single/Auto,1.25,+ Blinding Effect,- Detectable,PBX-45
+32,Underbarrel,LS-1 Laser Sight,0,+10,0,0,800,30,Single/Auto,1.25,+ Hipfire Accuracy,- Detectable,PBX-45
+33,Underbarrel,LWG Grip,0,+5,+2,0,800,30,Single/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,PBX-45
+34,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,800,30,Single/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,PBX-45
+35,Ammo,High-Power,0,0,0,0,650,53,Single/Auto,1.25,NULL,NULL,PP-29
+36,Ammo,Standard Issue,-5,-5,-5,5,700,64,Single/Auto,1.25,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,PP-29
+37,Ammo,Subsonic,-5,0,-5,-5,650,53,Single/Auto,1.25,+ Tracer Visibility; + Muzzle Flash Visibility,- Reload Speed; Projectile Velocity,PP-29
+38,Barrel,6KU Suppressor,-5,0,0,0,650,53,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,PP-29
+39,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,650,53,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,PP-29
+40,Barrel,Champion Muzzle Brake,0,+2,0,0,650,53,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,PP-29
+41,Barrel,Extended Barrel,0,+5,+5,-5,650,53,Single/Auto,1.25,+ Projectile Velocity,- Rate of Fire,PP-29
+42,Barrel,Factory Barrel,0,0,0,0,650,53,Single/Auto,1.25,NULL,NULL,PP-29
+43,Barrel,Tactical Compensator,0,+2,0,0,650,53,Single/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,PP-29
+44,Barrel,Warhawk Compensator,0,+2,0,0,650,53,Single/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,PP-29
+45,Barrel,Wrapped Suppressor,-5,0,0,0,650,53,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,PP-29
+46,Sights,8R Holo,0,0,0,0,650,53,Single/Auto,1.50,+ Enhanced Target Visibility,NULL,PP-29
+47,Sights,Bravo 3X,0,0,+3,-3,650,53,Single/Auto,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,PP-29
+48,Sights,DD Holo,0,0,0,0,650,53,Single/Auto,1.50,+ Enhanced Target Visibility,NULL,PP-29
+49,Sights,Fusion Holo,0,0,0,0,650,53,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,PP-29
+50,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,650,53,Single/Auto,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,PP-29
+51,Sights,Iron Sights,0,0,0,0,650,53,Single/Auto,1.25,NULL,NULL,PP-29
+52,Sights,K8 Holo,0,0,0,0,650,53,Single/Auto,1.50,+ Enhanced Target Visibility,NULL,PP-29
+53,Sights,M22 3.5X,0,0,+4,-4,650,53,Single/Auto,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,PP-29
+54,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,650,53,Single/Auto,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,PP-29
+55,Sights,Shan 2.5X,0,0,+2,+2,650,53,Single/Auto,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,PP-29
+56,Sights,TV 2X,0,0,+1,-1,650,53,Single/Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,PP-29
+57,Sights,UH-1SMART 1.5X,0,0,0,-1,650,53,Single/Auto,2.00,+ Enhanced Target Visibility; + Target Info,- Aiming Down Sight Speed,PP-29
+58,Sights,XDR Holo,0,0,0,0,650,53,Single/Auto,1.50,+ Enhanced Target Visibility,- Aiming Down Sight Speed,PP-29
+59,Sights,XO SMART 2X,0,0,+1,-2,650,53,Single/Auto,2.00,+ Enhanced Target Visibility; + Target Info; + Zoom Level,- Aiming Down Sight Speed,PP-29
+60,Underbarrel,Factory Mounts,0,0,0,0,650,53,Single/Auto,1.25,NULL,NULL,PP-29
+61,Ammo,Close Combat Drum,0,0,0,-10,900,50,Single/Auto,1.25,+ Ammo Capacity,- Reload Speed,MP9
+62,Ammo,Close Combat/Extended,0,0,0,-5,900,30,Single/Auto,1.25,+ Ammo Capacity,- Reload Speed,MP9
+63,Ammo,Close Combat,0,0,0,0,900,20,Single/Auto,1.25,NULL,NULL,MP9
+64,Ammo,Standard Issue/Extended MAG,+5,+5,+5,-10,850,25,Single/Auto,1.25,+ Effective Range; + Ammo Capacity,- Reload Speed,MP9
+65,Ammo,Standard Issue,+5,+5,+5,-5,850,15,Single/Auto,1.25,+ Effective Range,- Recoil Control; - Reload Speed; - Rate of Fire,MP9
+66,Ammo,Subsonic,-5,0,-5,-5,800,20,Single/Auto,1.25,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,MP9
+67,Barrel,6KU Suppressor,-5,+5,0,0,900,20,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,MP9
+68,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,900,20,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,MP9
+69,Barrel,Champion Muzzle Brake,0,+2,0,0,900,20,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,MP9
+70,Barrel,Factory Barrel,0,0,0,0,900,20,Single/Auto,1.25,NULL,NULL,MP9
+71,Barrel,PB Heavy Suppressor,-10,+5,0,0,900,20,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,MP9
+72,Barrel,Tactical Compensator,0,+2,0,0,900,20,Single/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,MP9
+73,Barrel,Type 4 Heavy Suppressor,-10,+5,0,0,900,20,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,MP9
+74,Barrel,Warhawk Compensator,0,+2,0,0,900,20,Single/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,MP9
+75,Barrel,Wrapped Suppressor,-5,+5,0,0,900,20,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,MP9
+76,Sights,8R Holo,0,0,0,0,900,20,Single/Auto,1.50,+ Enhanced Target Visibility,NULL,MP9
+77,Sights,Bravo 3X,0,0,+3,-3,900,20,Single/Auto,3.00,+ Zoom Level,- Aiming Down Sight Speed,MP9
+78,Sights,DD Holo,0,0,0,0,900,20,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,MP9
+79,Sights,Fusion Holo,0,0,0,0,900,20,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,MP9
+80,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,900,20,Single/Auto,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,MP9
+81,Sights,Iron Sights,0,0,0,0,900,20,Single/Auto,1.25,NULL,NULL,MP9
+82,Sights,K8 Holo,0,0,0,0,900,20,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,MP9
+83,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,900,20,Single/Auto,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,MP9
+84,Sights,Shan 2.5X,0,0,+2,-2,900,20,Single/Auto,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,MP9
+85,Sights,TV 2X,0,0,+1,-1,900,20,Single/Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,MP9
+86,Sights,UH-1SMART 1.5X,0,0,0,-1,900,20,Single/Auto,1.50,+ Enhanced Target Visibility; Target Info,- Aiming Down Sight Speed,MP9
+87,Sights,XDR Holo,0,0,0,0,900,20,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,MP9
+88,Underbarrel,BCG Light Grip,0,+5,+2,0,900,20,Single/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,MP9
+89,Underbarrel,Cobra Grip,0,+5,+2,0,900,20,Single/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,MP9
+90,Underbarrel,Factory Mounts,0,0,0,0,900,20,Single/Auto,1.25,NULL,NULL,MP9
+91,Underbarrel,Flashlight,0,0,0,0,900,20,Single/Auto,1.25,+ Blinding Effect,- Detectable,MP9
+92,Underbarrel,LS-1 Laser Sight,0,+10,0,0,900,20,Single/Auto,1.25,+ Hipfire Accuracy,- Detectable,MP9
+93,Underbarrel,LWG Grip,0,+5,+2,0,900,20,Single/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,MP9
+94,Ammo,High-Power/Extended,0,0,0,0,1150,30,Burst/Auto,1.25,+ Ammo Capacity,- Reload Speed,K30
+95,Ammo,High-Power,0,0,0,0,1150,20,Burst/Auto,1.25,NULL,NULL,K30
+96,Ammo,Standard Issue/Extended MAG,0,0,0,0,1200,40,Burst/Auto,1.25,+ Recoil Control; + Rate of Fire,- Effective Range,K30
+97,Ammo,Standard Issue/Drum MAG,0,0,0,0,1200,20,Burst/Auto,1.25,+ Recoil Control; + Rate of Fire,- Effective Range; - Reload Speed,K30
+98,Ammo,Subsonic,0,0,0,0,1100,20,Burst/Auto,1.25,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,K30
+99,Barrel,6KU Suppressor,-5,0,0,0,1150,20,Burst/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,K30
+100,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,1150,20,Burst/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,K30
+101,Barrel,Champion Muzzle Brake,0,+2,0,0,1150,20,Burst/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,K30
+102,Barrel,Factory Barrel,0,0,0,0,1150,20,Burst/Auto,1.25,NULL,NULL,K30
+103,Barrel,PB Heavy Suppressor,-10,0,0,0,1150,20,Burst/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,K30
+104,Barrel,Tactical Compensator,0,+2,0,0,1150,20,Burst/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,K30
+105,Barrel,Type 4 Heavy Suppressor,-10,0,0,0,1150,20,Burst/Auto,1.25,+ Suppresses Sound,- Effective Range,K30
+106,Barrel,Warhawk Compensator,0,+2,0,0,1150,20,Burst/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,K30
+107,Barrel,Wrapped Suppressor,-5,0,0,0,1150,20,Burst/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,K30
+108,Sights,8R Holo,0,0,0,0,1150,20,Burst/Auto,1.50,+ Enhanced Target Visibility,NULL,K30
+109,Sights,Bravo 3X,0,0,+3,-3,1150,20,Burst/Auto,2.00,NULL,NULL,K30
+110,Sights,DD Holo,0,0,0,0,1150,20,Burst/Auto,1.25,+ Enhanced Target Visibility,NULL,K30
+111,Sights,Fusion Holo,0,0,0,0,1150,20,Burst/Auto,1.25,+ Enhanced Target Visibility,NULL,K30
+112,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,1150,20,Burst/Auto,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,K30
+113,Sights,Iron Sights,0,0,0,0,1150,20,Burst/Auto,1.25,NULL,NULL,K30
+114,Sights,K8 Holo,0,0,0,0,1150,20,Burst/Auto,1.25,+ Enhanced Target Visibility,NULL,K30
+115,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,1150,20,Burst/Auto,2.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,K30
+116,Sights,Shan 2.5X,0,0,+2,-2,1150,20,Burst/Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,K30
+117,Sights,TV 2X,0,0,+1,-1,1150,20,Burst/Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,K30
+118,Sights,UH-1SMART 1.5X,0,0,0,-1,1150,20,Burst/Auto,1.50,+ Enhanced Target Visibility; Target Info,- Aiming Down Sight Speed,K30
+119,Sights,XDR Holo,0,0,0,0,1150,20,Burst/Auto,1.25,+ Enhanced Target Visibility,NULL,K30
+120,Sights,XO SMART 2X,0,0,+1,-2,1150,20,Burst/Auto,2.00,+ Target Info; + Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,K30
+121,Underbarrel,ADR Bipod,0,+5,0,0,1150,20,Burst/Auto,1.25,+ Recoil Control While Deployed; + Sway Stability While Deployed,- Immobile While Deployed,K30
+122,Underbarrel,BCG Light Grip,0,+10,+5,0,1150,20,Burst/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,K30
+123,Underbarrel,Cobra Grip,0,+20,+5,0,1150,20,Burst/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,K30
+124,Underbarrel,Factory Mounts,0,0,0,0,1150,20,Burst/Auto,1.25,NULL,NULL,K30
+125,Underbarrel,Flashlight,0,0,0,0,1150,20,Burst/Auto,1.25,+ Blinding Effect,- Detectable,K30
+126,Underbarrel,LS-1 Laser Sight,0,+10,0,0,1150,20,Burst/Auto,1.25,+ Hipfire Accuracy,- Detectable,K30
+127,Underbarrel,LWG Grip,0,+10,+5,0,1150,20,Burst/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,K30
+128,Ammo,Armor Piercing,0,0,0,-5,700,20,Single/Auto,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Reload Speed,M5A3
+129,Ammo,Close Combat,-5,-5,-5,+5,800,35,Single/Auto,1.25,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,M5A3
+130,Ammo,High-Power,+5,+5,+5,-10,700,20,Single/Auto,1.25,+ Effective Range,- Recoil Control; - Reload Speed; - Rate of Fire,M5A3
+131,Ammo,Standard Issue/Extended Mag,0,0,0,-5,750,40,Single/Auto,1.25,+ Ammo Capacity,- Reload Speed,M5A3
+132,Ammo,Standard Issue,0,0,0,0,750,30,Single/Auto,1.25,NULL,NULL,M5A3
+133,Ammo,Subsonic,-5,0,-5,-5,700,30,Single/Auto,1.25,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,M5A3
+134,Barrel,6KU Suppressor,-5,0,0,0,750,30,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,M5A3
+135,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,750,30,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,M5A3
+136,Barrel,Champion Muzzle Brake,0,+2,0,0,750,30,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,M5A3
+137,Barrel,Extended Barrel,0,+5,+5,-5,750,30,Single/Auto,1.25,+ Projectile Velocity,- Rate of Fire,M5A3
+138,Barrel,Factory Barrel,0,0,0,0,750,30,Single/Auto,1.25,NULL,NULL,M5A3
+139,Barrel,Shortened Barrel,0,-5,-5,+5,750,30,Single/Auto,1.25,+ Rate of Fire,- Projectile Velocity,M5A3
+140,Barrel,Tactical Compensator,0,+2,0,0,750,30,Single/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,M5A3
+141,Barrel,Warhawk Compensator,0,+2,0,0,750,30,Single/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,M5A3
+142,Barrel,Wrapped Suppressor,-5,0,0,0,750,30,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,M5A3
+143,Sights,8R Holo,0,0,0,0,750,30,Single/Auto,1.50,+ Enhanced Target Visibility,NULL,M5A3
+144,Sights,Bravo 3X,0,0,+3,-3,750,30,Single/Auto,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M5A3
+145,Sights,Fusion Holo,0,0,0,0,750,30,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,M5A3
+146,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,750,30,Single/Auto,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,M5A3
+147,Sights,Iron Sights,0,0,0,0,750,30,Single/Auto,1.25,NULL,NULL,M5A3
+148,Sights,K8 Holo,0,0,0,0,750,30,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,M5A3
+149,Sights,M11 6X,0,0,+6,-6,750,30,Single/Auto,6.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M5A3
+150,Sights,M22 3.5X,0,0,+4,-4,750,30,Single/Auto,3.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M5A3
+151,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,750,30,Single/Auto,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,M5A3
+152,Sights,Raven 4X,0,0,+5,-5,750,30,Single/Auto,4.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M5A3
+153,Sights,Shan 2.5X,0,0,+2,-2,750,30,Single/Auto,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M5A3
+154,Sights,TV 2X,0,0,+1,-1,750,30,Single/Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M5A3
+155,Sights,UH-1SMART 1.5X,0,0,0,-1,750,30,Single/Auto,1.50,+ Enhanced Target Visibility; + Target Info,- Aiming Down Sight Speed,M5A3
+156,Sights,XDR Holo,0,0,0,0,750,30,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,M5A3
+157,Underbarrel,40MM HE,0,0,0,-10,750,30,Single/Auto,1.25,+ Fragmentation Grenade Launcher,- Aiming Down Sight Speed,M5A3
+158,Underbarrel,40MM Incendiary,0,0,0,-10,750,30,Single/Auto,1.25,+ Incendiary Grenade Launcher,- Aiming Down Sight Speed,M5A3
+159,Underbarrel,40MM Smoke,0,0,0,-10,750,30,Single/Auto,1.25,+ Smoke Grenade Launcher,- Aiming Down Sight Speed,M5A3
+160,Underbarrel,ADR Bipod,0,+5,+5,0,750,30,Single/Auto,1.25,+ Allows Deployment; + Sway Stability While Deployed,- Immobile While Deployed,M5A3
+161,Underbarrel,BCG Light Grip,0,+5,+2,0,750,30,Single/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,M5A3
+162,Underbarrel,Cobra Grip,0,+5,+2,0,750,30,Single/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,M5A3
+163,Underbarrel,Factory Mounts,0,0,0,0,750,30,Single/Auto,1.25,NULL,NULL,M5A3
+164,Underbarrel,Flashlight,0,0,0,0,750,30,Single/Auto,1.25,+ Blinding Effect,- Detectable,M5A3
+165,Underbarrel,LS-1 Laser Sight,0,+10,+1,0,750,30,Single/Auto,1.25,+ Hipfire Accuracy,- Detectable,M5A3
+166,Underbarrel,LWG Grip,0,+5,+2,0,750,30,Single/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,M5A3
+167,Underbarrel,Masterkey,0,0,0,0,750,30,Single/Auto,1.25,+ Shotgun Underbarrel,- Aiming Down Sight Speed,M5A3
+168,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,750,30,Single/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,M5A3
+169,Ammo,Armor Piercing,0,0,0,-5,600,20,Single/Burst/Auto,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Reload Speed,AK-24
+170,Ammo,High-Power Extended,+5,+5,+5,-10,600,40,Single/Burst/Auto,1.25,+ Effective Range; + Ammo Capacity,- Recoil Control; - Reload Speed; - Rate of Fire,AK-24
+171,Ammo,High-Power,+5,+5,+5,-5,600,20,Single/Burst/Auto,1.25,+ Effective Range,- Recoil Control; - Reload Speed; - Rate of Fire,AK-24
+172,Ammo,Standard Issue Drum MAG,0,0,0,-10,650,50,Single/Burst/Auto,1.25,+ Ammo Capacity,- Reload Speed,AK-24
+173,Ammo,Standard Issue Extended MAG,0,0,0,-5,650,40,Single/Burst/Auto,1.25,+ Ammo Capacity,- Reload Speed,AK-24
+174,Ammo,Standard Issue,0,0,0,0,650,30,Single/Burst/Auto,1.25,NULL,NULL,AK-24
+175,Barrel,6KU Supressor,-5,0,+5,0,650,30,Single/Burst/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,AK-24
+176,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,650,30,Single/Burst/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,AK-24
+177,Barrel,Champion Muzzle Brake,0,+2,0,0,650,30,Single/Burst/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,AK-24
+178,Barrel,Extended Barrel,0,+5,+5,-5,700,30,Single/Burst/Auto,1.25,+ Projectile Velocity,- Rate of Fire,AK-24
+179,Barrel,Factory Barrel,0,0,0,0,650,30,Single/Burst/Auto,1.25,NULL,NULL,AK-24
+180,Barrel,Tactical Compensator,0,+2,0,0,650,30,Single/Burst/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,AK-24
+181,Barrel,Warhawk Compensator,0,+2,0,0,650,30,Single/Burst/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,AK-24
+182,Barrel,Wrapped Supressor,-5,0,+5,0,650,30,Single/Burst/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,AK-24
+183,Sights,8R Holo,0,0,0,0,650,30,Single/Burst/Auto,1.50,+ Enhanced Target Visibility,NULL,AK-24
+184,Sights,Bravo 3X,0,0,+3,-3,650,30,Single/Burst/Auto,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AK-24
+185,Sights,Fusion Holo,0,0,0,0,650,30,Single/Burst/Auto,1.25,+ Enhanced Target Visibility,NULL,AK-24
+186,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,650,30,Single/Burst/Auto,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,AK-24
+187,Sights,Iron Sights,0,0,0,0,650,30,Single/Burst/Auto,1.25,NULL,NULL,AK-24
+188,Sights,K8 Holo,0,0,0,0,650,30,Single/Burst/Auto,1.25,+ Enhanced Target Visibility,NULL,AK-24
+189,Sights,M11 6X,0,0,+6,-6,650,30,Single/Burst/Auto,6.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AK-24
+190,Sights,M22 3.5X,0,0,+4,-4,650,30,Single/Burst/Auto,3.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AK-24
+191,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,650,30,Single/Burst/Auto,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,AK-24
+192,Sights,Raven 4X,0,0,+5,-5,650,30,Single/Burst/Auto,4.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AK-24
+193,Sights,Shan 2.5X,0,0,+2,-2,650,30,Single/Burst/Auto,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AK-24
+194,Sights,TV 2X,0,0,+1,-1,650,30,Single/Burst/Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AK-24
+195,Sights,UH-1SMART 1.5X,0,0,0,-1,650,30,Single/Burst/Auto,1.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AK-24
+196,Sights,XDR Holo,0,0,0,0,650,30,Single/Burst/Auto,1.25,+ Enhanced Target Visibility,NULL,AK-24
+197,Underbarrel,40MM AP,0,0,0,-10,650,30,Single/Burst/Auto,1.25,+ Armor Piercing Grenade Launcher,- Aiming Down Sight Speed,AK-24
+198,Underbarrel,40MM HE,0,0,0,-10,650,30,Single/Burst/Auto,1.25,+ Fragmentation Grenade Launcher,- Aiming Down Sight Speed,AK-24
+199,Underbarrel,40MM Incendiary,0,0,0,-10,650,30,Single/Burst/Auto,1.25,+ Incendiary Grenade Launcher,- Aiming Down Sight Speed,AK-24
+200,Underbarrel,ADR Bipod,0,+5,+5,0,650,30,Single/Burst/Auto,1.25,+ Recoil Control While Deployed; + Sway Stability While Deployed,- Immobile While Deployed,AK-24
+201,Underbarrel,BCG Light Grip,0,+5,+2,0,650,30,Single/Burst/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,AK-24
+202,Underbarrel,Cobra Grip,0,+5,+2,0,650,30,Single/Burst/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,AK-24
+203,Underbarrel,Factory Mounts,0,0,0,0,650,30,Single/Burst/Auto,1.25,NULL,NULL,AK-24
+204,Underbarrel,Flashlight,0,0,0,0,650,30,Single/Burst/Auto,1.25,+ Blinding Effect,- Detectable,AK-24
+205,Underbarrel,LS-1 Laser Sight,0,+10,0,0,650,30,Single/Burst/Auto,1.25,+ Hipfire Accuracy,- Detectable,AK-24
+206,Underbarrel,LWG Grip,0,+5,+2,0,650,30,Single/Burst/Auto,1.25,+ Accuracy While Static,NULL,AK-24
+207,Underbarrel,Masterkey,0,0,0,0,650,30,Single/Burst/Auto,1.25,+ Shotgun Underbarrel,- Aiming Down Sight Speed,AK-24
+208,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,650,30,Single/Burst/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,AK-24
+209,Ammo,Armor Piercing,0,0,0,-5,600,20,Single/Auto,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Reload Speed,SFAR-M GL
+210,Ammo,High-Power Drum,0,0,0,-10,600,50,Single/Auto,1.25,+ Ammo Capacity,- Reload Speed,SFAR-M GL
+211,Ammo,High-Power,0,0,0,0,600,20,Single/Auto,1.25,NULL,NULL,SFAR-M GL
+212,Ammo,Standard Issue,-5,-5,-5,+5,650,30,Single/Auto,1.25,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,SFAR-M GL
+213,Barrel,6KU Suppressor,-5,0,0,0,600,20,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,SFAR-M GL
+214,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,600,20,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,SFAR-M GL
+215,Barrel,Champion Muzzle Brake,0,+2,0,0,600,20,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,SFAR-M GL
+216,Barrel,Extended Barrel,0,+5,+5,-5,600,20,Single/Auto,1.25,+ Projectile Velocity,- Rate of Fire,SFAR-M GL
+217,Barrel,Factory Barrel,0,0,0,0,600,20,Single/Auto,1.25,NULL,NULL,SFAR-M GL
+218,Barrel,Tactical Compensator,0,+2,0,0,600,20,Single/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,SFAR-M GL
+219,Barrel,Warhawk Compensator,0,+2,0,0,600,20,Single/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,SFAR-M GL
+220,Barrel,Wrapped Suppressor,-5,0,0,0,600,20,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,SFAR-M GL
+221,Sights,8R Holo,0,0,0,0,600,20,Single/Auto,1.50,+ Enhanced Target Visibility,NULL,SFAR-M GL
+222,Sights,Bravo 3X,0,0,+3,-3,600,20,Single/Auto,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SFAR-M GL
+223,Sights,Fusion Holo,0,0,0,0,600,20,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,SFAR-M GL
+224,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,600,20,Single/Auto,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,SFAR-M GL
+225,Sights,Iron Sights,0,0,0,0,600,20,Single/Auto,1.25,NULL,NULL,SFAR-M GL
+226,Sights,K8 Holo,0,0,0,0,600,20,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,SFAR-M GL
+227,Sights,M11 6X,0,0,+6,-6,600,20,Single/Auto,6.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SFAR-M GL
+228,Sights,M22 3.5X,0,0,+4,-4,600,20,Single/Auto,3.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SFAR-M GL
+229,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,600,20,Single/Auto,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,SFAR-M GL
+230,Sights,Raven 4X,0,0,+5,-4,600,20,Single/Auto,4.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SFAR-M GL
+231,Sights,TV 2X,0,0,+1,-1,600,20,Single/Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SFAR-M GL
+232,Sights,UH-1SMART 1.5X,0,0,0,-1,600,20,Single/Auto,1.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SFAR-M GL
+233,Sights,XDR Holo,0,0,0,0,600,20,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,SFAR-M GL
+234,Underbarrel,40MM AP,0,0,0,-10,600,20,Single/Auto,1.25,+ Armor Piercing Grenade,NULL,SFAR-M GL
+235,Underbarrel,40MM Incendiary,0,0,0,-10,600,20,Single/Auto,1.25,+ Incendiary Grenade,NULL,SFAR-M GL
+236,Underbarrel,40MM Smoke,0,0,0,-10,600,20,Single/Auto,1.25,+ Smoke Grenade,NULL,SFAR-M GL
+237,Underbarrel,Factory Mounts,0,0,0,0,600,20,Single/Auto,1.25,+ Fragmentation Grenade,NULL,SFAR-M GL
+238,Ammo,High-Power,+5,+5,+5,-5,1200,20,Single/Burst,1.25,+ Effective Range,- Recoil Control; - Reload Speed; - Rate of Fire,AC-42
+239,Ammo,Standard Issue Extended MAG,0,0,0,-5,1200,50,Single/Burst,1.25,+ Ammo Capacity,- Reload Speed,AC-42
+240,Ammo,Standard Issue,0,0,0,0,1200,30,Single/Burst,1.25,NULL,NULL,AC-42
+241,Ammo,Subsonic,-5,0,-5,-5,1200,30,Single/Burst,1.25,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,AC-42
+242,Barrel,6KU Suppressor,-5,0,0,0,1200,30,Single/Burst,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,AC-42
+243,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,1200,30,Single/Burst,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,AC-42
+244,Barrel,Champion Muzzle Brake,0,+2,0,0,1200,30,Single/Burst,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,AC-42
+245,Barrel,Extended Barrel,0,+5,+5,-5,1200,30,Single/Burst,1.25,+ Projectile Velocity,- Rate of Fire,AC-42
+246,Barrel,Factory Barrel,0,0,0,0,1200,30,Single/Burst,1.25,NULL,NULL,AC-42
+247,Barrel,PB Heavy Suppressor,-10,0,0,0,1200,30,Single/Burst,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,AC-42
+248,Barrel,Tactical Compensator,0,+2,0,0,1200,30,Single/Burst,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,AC-42
+249,Barrel,Type 4 Heavy Suppressor,-10,0,0,0,1200,30,Single/Burst,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,AC-42
+250,Barrel,Warhawk Compensator,0,+2,0,0,1200,30,Single/Burst,1.25,+ Vertical Recoil Control,NULL,AC-42
+251,Barrel,Wrapped Suppressor,-5,0,0,0,1200,30,Single/Burst,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,AC-42
+252,Sights,8R Holo,0,0,0,0,1200,30,Single/Burst,1.50,+ Enhanced Target Visibility,NULL,AC-42
+253,Sights,Bravo 3X,0,0,+3,-3,1200,30,Single/Burst,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AC-42
+254,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,1200,30,Single/Burst,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,AC-42
+255,Sights,Iron Sights,0,0,0,0,1200,30,Single/Burst,1.25,NULL,NULL,AC-42
+256,Sights,K8 Holo,0,0,0,0,1200,30,Single/Burst,1.25,+ Enhanced Target Visibility,NULL,AC-42
+257,Sights,M11 6X,0,0,+6,-6,1200,30,Single/Burst,6.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AC-42
+258,Sights,M22 3.5X,0,0,+4,-4,1200,30,Single/Burst,3.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AC-42
+259,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,1200,30,Single/Burst,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,AC-42
+260,Sights,Raven 4X,0,0,+5,-5,1200,30,Single/Burst,4.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AC-42
+261,Sights,Shan 2.5X,0,0,+2,-2,1200,30,Single/Burst,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AC-42
+262,Sights,TV 2X,0,0,+1,-1,1200,30,Single/Burst,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AC-42
+263,Sights,UH-1 SMART 1.5X,0,0,0,-1,1200,30,Single/Burst,1.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AC-42
+264,Sights,XO SMART 2X,0,0,+1,-2,1200,30,Single/Burst,2.00,+ Target Info; + Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,AC-42
+265,Underbarrel,40MM HE,0,0,0,-10,1200,30,Single/Burst,1.25,+ Fragmentation Grenade Launcher,- Aiming Down Sight Speed,AC-42
+266,Underbarrel,40MM Incendiary,0,0,0,-10,1200,30,Single/Burst,1.25,+ Incendiary Grenade Launcher,- Aiming Down Sight Speed,AC-42
+267,Underbarrel,40MM Smoke,0,0,0,-10,1200,30,Single/Burst,1.25,+ Smoke Grenade Launcher,- Aiming Down Sight Speed,AC-42
+268,Underbarrel,ADR Bipod,0,+5,+5,0,1200,30,Single/Burst,1.25,+ Recoil Control While Deployed; + Sway Stability While Deployed,- Immobile While Deployed,AC-42
+269,Underbarrel,BCG Light Grip,0,+5,+2,0,1200,30,Single/Burst,1.25,+ Accuracy While Moving,- Accuracy While Static,AC-42
+270,Underbarrel,Cobra Grip,0,+5,+2,0,1200,30,Single/Burst,1.25,+ Accuracy While Static,- Accuracy While Moving,AC-42
+271,Underbarrel,Factory Mounts,0,0,0,0,1200,30,Single/Burst,1.25,NULL,NULL,AC-42
+272,Underbarrel,Flashlight,0,0,0,0,1200,30,Single/Burst,1.25,+ Blinding Effect,- Detectable,AC-42
+273,Underbarrel,LS-1 Laser Sight,0,+10,0,0,1200,30,Single/Burst,1.25,+ Hipfire Accuracy,- Detectable,AC-42
+274,Underbarrel,LWG Grip,0,+5,+2,0,1200,30,Single/Burst,1.25,+ Accuracy While Static,- Accuracy While Moving,AC-42
+275,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,1200,30,Single/Burst,1.25,+ Accuracy While Moving,- Accuracy While Static,AC-42
+276,Ammo,Armor Piercing,+5,+5,+5,-10,550,100,Single/Auto,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Reload Speed,LCMG
+277,Ammo,Close Combat,-5,-5,-5,+5,650,200,Single/Auto,1.25,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,LCMG
+278,Ammo,High-Power,+5,+5,+5,-5,550,100,Single/Auto,1.25,+ Effective Range,- Recoil Control; - Reload Speed; - Rate of Fire,LCMG
+279,Ammo,Standard Issue/Extended Mag,+5,+5,+5,-10,600,200,Single/Auto,1.25,+ Ammo Capacity,- Reload Speed,LCMG
+280,Ammo,Standard Issue,0,0,0,0,600,200,Single/Auto,1.25,NULL,NULL,LCMG
+281,Ammo,Subsonic,-5,0,-5,-5,600,200,Single/Auto,1.25,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,LCMG
+282,Barrel,6KU Suppressor,-5,0,0,0,600,200,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,LCMG
+283,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,600,200,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,LCMG
+284,Barrel,Champion Muzzle Brake,0,+2,0,0,600,200,Single/Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,LCMG
+285,Barrel,Extended Barrel,0,+5,+5,-5,600,200,Single/Auto,1.25,+ Projectile Velocity,- Rate of Fire,LCMG
+286,Barrel,Factory Barrel,0,0,0,0,600,200,Single/Auto,1.25,NULL,NULL,LCMG
+287,Barrel,Shortened Barrel,0,-5,-5,+5,600,200,Single/Auto,1.25,+ Rate of Fire,- Projectile Velocity,LCMG
+288,Barrel,Tactical Compensator,0,+2,0,0,600,200,Single/Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,LCMG
+289,Barrel,Warhawk Compensator,0,+2,0,0,600,200,Single/Auto,1.25,+ Vertical Recoil Control,NULL,LCMG
+290,Barrel,Wrapped Suppressor,-5,0,0,0,600,200,Single/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,LCMG
+291,Sights,8R Holo,0,0,0,0,600,200,Single/Auto,1.50,+ Enhanced Target Visibility,NULL,LCMG
+292,Sights,Bravo 3X,0,0,+3,-3,600,200,Single/Auto,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,LCMG
+293,Sights,Fusion Holo,0,0,0,0,600,200,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,LCMG
+294,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,600,200,Single/Auto,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,LCMG
+295,Sights,Iron Sights,0,0,0,0,600,200,Single/Auto,1.25,NULL,NULL,LCMG
+296,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,600,200,Single/Auto,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,LCMG
+297,Sights,Shan 2.5X,0,0,+2,-2,600,200,Single/Auto,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,LCMG
+298,Sights,TV 2X,0,0,+1,-1,600,200,Single/Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,LCMG
+299,Sights,UH-1SMART 1.5X,0,0,0,-1,600,200,Single/Auto,1.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,LCMG
+300,Sights,XDR Holo,0,0,0,0,600,200,Single/Auto,1.25,+ Enhanced Target Visibility,NULL,LCMG
+301,Underbarrel,40MM AP,0,0,0,-10,600,200,Single/Auto,1.25,+ Armor Piercing Grenade Launcher,- Aiming Down Sight Speed,LCMG
+302,Underbarrel,40MM Frag,0,0,0,-10,600,200,Single/Auto,1.25,+ Fragmentation Grenade Launcher,- Aiming Down Sight Speed,LCMG
+303,Underbarrel,40MM Smoke,0,0,0,-10,600,200,Single/Auto,1.25,+ Smoke Grenade Launcher,- Aiming Down Sight Speed,LCMG
+304,Underbarrel,ADR Bipod,0,+20,0,0,600,200,Single/Auto,1.25,+ Recoil Control While Deployed; + Sway Stability While Deployed,- Immobile While Deployed,LCMG
+305,Underbarrel,BCG Light Grip,0,+5,+2,0,600,200,Single/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,LCMG
+306,Underbarrel,Cobra Grip,0,+5,+2,0,600,200,Single/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,LCMG
+307,Underbarrel,Factory Mounts,0,0,0,0,600,200,Single/Auto,1.25,NULL,NULL,LCMG
+308,Underbarrel,Flashlight,0,0,0,0,600,200,Single/Auto,1.25,+ Blinding Effect,- Detectable,LCMG
+309,Underbarrel,LS-1 Laser Sight,0,+10,0,0,600,200,Single/Auto,1.25,+ Hipfire Accuracy,- Detectable,LCMG
+310,Underbarrel,LWG Grip,0,+5,+2,0,600,200,Single/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,LCMG
+311,Underbarrel,Masterkey,0,0,0,0,600,200,Single/Auto,1.25,+ Shotgun Underbarrel,- Aiming Down Sight Speed,LCMG
+312,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,600,200,Single/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,LCMG
+313,Ammo,Armor Piercing,0,0,0,0,800,100,Auto,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Ammo Capacity,PKP-BP
+314,Ammo,High-Power Extended,0,0,0,0,800,200,Auto,1.25,NULL,NULL,PKP-BP
+315,Ammo,High-Power,0,0,0,+5,800,100,Auto,1.25,+ Reload Speed,- Ammo Capacity,PKP-BP
+316,Ammo,Standard Issue,-5,-5,-5,+5,850,200,Auto,1.25,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,PKP-BP
+317,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,800,200,Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,PKP-BP
+318,Barrel,Champion Muzzle Brake,0,+2,0,0,800,200,Auto,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,PKP-BP
+319,Barrel,Factory Barrel,0,0,0,0,800,200,Auto,1.25,NULL,NULL,PKP-BP
+320,Barrel,Tactical Compensator,0,+2,0,0,800,200,Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,PKP-BP
+321,Barrel,Warhawk Compensator,0,+2,0,0,800,200,Auto,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,PKP-BP
+322,Sights,8R Holo,0,0,0,0,800,200,Auto,1.50,+ Enhanced Target Visibility,NULL,PKP-BP
+323,Sights,Bravo 3X,0,0,+3,-3,800,200,Auto,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,PKP-BP
+324,Sights,Fusion Holo,0,0,0,0,800,200,Auto,1.25,+ Enhanced Target Visibility,NULL,PKP-BP
+325,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,800,200,Auto,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,PKP-BP
+326,Sights,Iron Sights,0,0,0,0,800,200,Auto,1.25,NULL,NULL,PKP-BP
+327,Sights,K8 Holo,0,0,0,0,800,200,Auto,1.25,+ Enhanced Target Visibility,NULL,PKP-BP
+328,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,800,200,Auto,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,PKP-BP
+329,Sights,Shan 2.5X,0,0,+2,-2,800,200,Auto,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,PKP-BP
+330,Sights,TV 2X,0,0,+1,-1,800,200,Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,PKP-BP
+331,Sights,UH-1SMART 1.5X,0,0,0,-1,800,200,Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,PKP-BP
+332,Sights,XDR Holo,0,0,0,0,800,200,Auto,1.25,+ Enhanced Target Visibility,NULL,PKP-BP
+333,Underbarrel,Factory Mounts,0,0,0,0,800,200,Auto,1.25,NULL,NULL,PKP-BP
+334,Ammo,Armor Piercing,0,0,0,-5,260,10,Single,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Reload Speed,DM7
+335,Ammo,Close Combat,-5,-5,-5,+5,360,20,Single,1.25,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,DM7
+336,Ammo,High-Power,+5,+5,+5,-5,260,10,Single,1.25,+ Effective Range,- Recoil Control; - Reload Speed; - Rate of Fire,DM7
+337,Ammo,Standard Issue,0,0,0,0,300,15,Single,1.25,NULL,NULL,DM7
+338,Ammo,Subsonic,-5,0,-5,-5,260,15,Single,2.00,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,DM7
+339,Barrel,6KU Suppressor,-5,0,0,0,300,15,Single,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,DM7
+340,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,300,15,Single,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,DM7
+341,Barrel,Champion Muzzle Brake,0,+2,0,0,300,15,Single,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,DM7
+342,Barrel,Extended Barrel,0,+5,+5,-5,300,15,Single,1.25,+ Projectile Velocity,- Rate of Fire,DM7
+343,Barrel,Factory Barrel,0,0,0,0,300,15,Single,1.25,NULL,NULL,DM7
+344,Barrel,Tactical Compensator,0,+2,0,0,300,15,Single,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,DM7
+345,Barrel,Warhawk Compensator,0,+2,0,0,300,15,Single,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,DM7
+346,Barrel,Wrapped Suppressor,-5,0,0,0,300,15,Single,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,DM7
+347,Sights,8R Holo,0,0,0,0,300,15,Single,1.50,+ Enhanced Target Visibility,NULL,DM7
+348,Sights,BKS 8X,0,0,+7,-7,300,15,Single,8.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DM7
+349,Sights,Bravo 3X,0,0,+3,-3,300,15,Single,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DM7
+350,Sights,Fusion Holo,0,0,0,0,300,15,Single,1.25,+ Enhanced Target Visibility,NULL,DM7
+351,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,300,15,Single,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,DM7
+352,Sights,Iron Sights,0,0,0,0,300,15,Single,1.25,NULL,NULL,DM7
+353,Sights,K8 Holo,0,0,0,0,300,15,Single,1.25,+ Enhanced Target Visibility,NULL,DM7
+354,Sights,M11 6X,0,0,+6,-6,300,15,Single,6.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DM7
+355,Sights,M22 3.5X,0,0,+3,-3,300,15,Single,3.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DM7
+356,Sights,Maul Hybrid 1.5-3X,0,0,+2,-2,300,15,Single,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,DM7
+357,Sights,Raven 4X,0,0,+4,-4,300,15,Single,4.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DM7
+358,Sights,Shan 2.5X,0,0,+1,-1,300,15,Single,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DM7
+359,Sights,TV 2X,0,0,0,0,300,15,Single,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DM7
+360,Sights,UH-1SMART 1.5X,0,0,0,0,300,15,Single,1.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DM7
+361,Sights,XDR Holo,0,0,0,0,300,15,Single,1.25,+ Enhanced Target Visibility,NULL,DM7
+362,Underbarrel,40MM HE,0,0,0,-10,300,15,Single,1.25,+ Fragmentation Grenade Launcher,- Aiming Down Sight Speed,DM7
+363,Underbarrel,40MM Incendiary,0,0,0,-10,300,15,Single,1.25,+ Incendiary Grenade Launcher,- Aiming Down Sight Speed,DM7
+364,Underbarrel,40MM Smoke,0,0,0,-10,300,15,Single,1.25,+ Smoke Grenade Launcher,- Aiming Down Sight Speed,DM7
+365,Underbarrel,ADR Bipod,0,+5,+5,0,300,15,Single,1.25,+ Recoil Control While Deployed; + Sway Stability While Deployed,- Immobile While Deployed,DM7
+366,Underbarrel,BCG Light Grip,0,+5,+2,0,300,15,Single,1.25,+ Accuracy While Moving,- Accuracy While Static,DM7
+367,Underbarrel,Cobra Grip,0,+5,+2,0,300,15,Single,1.25,+ Accuracy While Static,- Accuracy While Moving,DM7
+368,Underbarrel,Factory Mounts,0,0,0,0,300,15,Single,1.25,NULL,NULL,DM7
+369,Underbarrel,Flashlight,0,0,0,0,300,15,Single,1.25,+ Blinding Effect,- Detectable,DM7
+370,Underbarrel,LS-1 Laser Sight,0,+10,0,0,300,15,Single,1.25,+ Hipfire Accuracy,- Detectable,DM7
+371,Underbarrel,LWG Grip,0,+5,+2,0,300,15,Single,1.25,+ Accuracy While Static,- Accuracy While Moving,DM7
+372,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,300,15,Single,1.25,+ Accuracy While Moving,- Accuracy While Static,DM7
+373,Ammo,Armor Piercing,0,0,0,-5,180,5,Single,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Reload Speed,SVK
+374,Ammo,High-Power,0,0,+5,-5,180,5,Single,1.25,NULL,NULL,SVK
+375,Ammo,Standard Issue/Extended MAG,-5,-5,+5,-5,220,15,Single,1.25,+ Recoil Control; + Rate of Fire,- Effective Range,SVK
+376,Ammo,Standard Issue,-5,-5,0,0,220,10,Single,1.25,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,SVK
+377,Barrel,6KU Suppressor,-5,0,0,0,180,5,Single,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,SVK
+378,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,180,5,Single,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,SVK
+379,Barrel,Champion Muzzle Brake,0,+20,+10,0,180,5,Single,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,SVK
+380,Barrel,Extended Barrel,0,+5,+5,-5,180,5,Single,1.25,+ Projectile Velocity,- Rate of Fire,SVK
+381,Barrel,Factory Barrel,0,0,0,0,180,5,Single,1.25,NULL,NULL,SVK
+382,Barrel,Shortened Barrel,0,-5,-5,+5,180,5,Single,1.25,+ Rate of Fire,- Projectile Velocity,SVK
+383,Barrel,Tactical Compensator,0,+2,0,0,180,5,Single,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,SVK
+384,Barrel,Warhawk Compensator,0,+2,0,0,180,5,Single,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,SVK
+385,Barrel,Wrapped Suppressor,0,0,0,0,180,5,Single,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,SVK
+386,Sights,8R Holo,0,0,0,0,180,5,Single,1.50,+ Enhanced Target Visibility,NULL,SVK
+387,Sights,BKS 8X,0,0,+7,-7,180,5,Single,8.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SVK
+388,Sights,Bravo 3X,0,0,+3,-3,180,5,Single,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SVK
+389,Sights,Fusion Holo,0,0,0,0,180,5,Single,1.25,+ Enhanced Target Visibility,NULL,SVK
+390,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,180,5,Single,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,SVK
+391,Sights,Iron Sights,0,0,0,0,180,5,Single,1.25,NULL,NULL,SVK
+392,Sights,K8 Holo,0,0,0,0,180,5,Single,1.25,+ Enhanced Target Visibility,NULL,SVK
+393,Sights,M11 6X,0,0,+6,-6,180,5,Single,6.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SVK
+394,Sights,M22 3.5X,0,0,+4,-4,180,5,Single,3.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SVK
+395,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,180,5,Single,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,SVK
+396,Sights,Raven 4X,0,0,0,0,180,5,Single,4.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SVK
+397,Sights,SDB 10X,0,0,+8,-8,180,5,Single,10.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SVK
+398,Sights,UH-1SMART 1.5X,0,0,0,-1,180,5,Single,1.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SVK
+399,Sights,XDR Holo,0,0,0,0,180,5,Single,1.25,+ Enhanced Target Visibility,NULL,SVK
+400,Underbarrel,40MM AP,0,0,0,-10,180,5,Single,1.25,+ Armor Piercing Grenade Launcher,- Aiming Down Sight Speed,SVK
+401,Underbarrel,40MM HE,0,0,0,-10,180,5,Single,1.25,+ Fragmentation Grenade Launcher,- Aiming Down Sight Speed,SVK
+402,Underbarrel,ADR Bipod,0,+5,+5,0,180,5,Single,1.25,+ Recoil Control While Deployed; + Sway Stability While Deployed,- Immobile While Deployed,SVK
+403,Underbarrel,BCG Light Grip,0,+5,+2,0,180,5,Single,1.25,+ Accuracy While Moving,- Accuracy While Static,SVK
+404,Underbarrel,Cobra Grip,0,+5,+2,0,180,5,Single,1.25,+ Accuracy While Moving,- Accuracy While Static,SVK
+405,Underbarrel,Factory Mounts,0,0,0,0,180,5,Single,1.25,NULL,NULL,SVK
+406,Underbarrel,Flashlight,0,0,0,0,180,5,Single,1.25,+ Blinding Effect,- Detectable,SVK
+407,Underbarrel,LS-1 Laser Sight,0,+10,0,0,180,5,Single,1.25,+ Hipfire Accuracy,- Detectable,SVK
+408,Underbarrel,LWG Grip,0,+5,+2,0,180,5,Single,1.25,+ Accuracy While Static,- Accuracy While Moving,SVK
+409,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,180,5,Single,1.25,+ Accuracy While Moving,- Accuracy While Static,SVK
+410,Ammo,Close Combat Drum,0,0,0,-10,450,30,Single,1.25,+ Ammo Capacity,- Reload Speed,VCAR
+411,Ammo,Close Combat,0,0,0,0,450,48,Single,1.25,+ Reload Speed,- Ammo Capacity,VCAR
+412,Ammo,Close Combat Extended,0,0,0,0,450,20,Single,1.25,NULL,NULL,VCAR
+413,Ammo,Standard Issue,+5,+5,+5,-5,400,20,Single,1.25,+ Effective Range,- Recoil Control; - Reload Speed; - Rate of Fire,VCAR
+414,Ammo,Subsonic,-5,0,-5,-5,400,20,Single,1.25,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,VCAR
+415,Barrel,6KU Suppressor,-5,0,0,0,450,20,Single,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,VCAR
+416,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,450,20,Single,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,VCAR
+417,Barrel,Champion Muzzle Brake,0,+2,0,0,450,20,Single,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,VCAR
+418,Barrel,Extended Barrel,0,+5,+5,-5,450,20,Single,1.25,+ Projectile Velocity,- Rate of Fire,VCAR
+419,Barrel,Factory Barrel,0,0,0,0,450,20,Single,1.25,NULL,NULL,VCAR
+420,Barrel,Shortened Barrel,0,-5,-5,+5,450,20,Single,1.25,+ Rate of Fire,- Projectile Velocity,VCAR
+421,Barrel,Tactical Compensator,0,+2,0,0,450,20,Single,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,VCAR
+422,Barrel,Warhawk Compensator,0,+2,0,0,450,20,Single,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,VCAR
+423,Barrel,Wrapped Suppressor,-5,0,0,0,450,20,Single,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,VCAR
+424,Sights,8R Holo,0,0,0,0,450,20,Single,1.50,+ Enhanced Target Visibility,NULL,VCAR
+425,Sights,Bravo 3X,0,0,+3,-3,450,20,Single,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,VCAR
+426,Sights,Fusion Holo,0,0,0,0,450,20,Single,1.25,+ Enhanced Target Visibility,NULL,VCAR
+427,Sights,Iron Sights,0,0,0,0,450,20,Single,1.25,NULL,NULL,VCAR
+428,Sights,K8 Holo,0,0,0,0,450,20,Single,1.25,+ Enhanced Target Visibility,NULL,VCAR
+429,Sights,M22 3.5X,0,0,+4,-4,450,20,Single,3.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,VCAR
+430,Sights,Raven 4X,0,0,+5,-5,450,20,Single,4.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,VCAR
+431,Sights,Shan 2.5X,0,0,+2,-2,450,20,Single,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,VCAR
+432,Sights,TV 2X,0,0,+1,-1,450,20,Single,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,VCAR
+433,Sights,UH-1SMART 1.5X,0,0,0,-1,450,20,Single,1.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,VCAR
+434,Sights,XDR Holo,0,0,0,0,450,20,Single,1.25,+ Enhanced Target Visibility,NULL,VCAR
+435,Underbarrel,BCG Light Grip,0,+5,+2,0,450,20,Single,1.25,+ Accuracy While Moving,- Accuracy While Static,VCAR
+436,Underbarrel,Cobra Grip,0,+5,+2,0,450,20,Single,1.25,+ Accuracy While Static,- Accuracy While Moving,VCAR
+437,Underbarrel,Factory Mounts,0,0,0,0,450,20,Single,1.25,NULL,NULL,VCAR
+438,Underbarrel,Flashlight,0,0,0,0,450,20,Single,1.25,+ Blinding Effect,- Detectable,VCAR
+439,Underbarrel,LS-1 Laser Sight,0,+10,0,0,450,20,Single,1.25,+ Hipfire Accuracy,- Detectable,VCAR
+440,Underbarrel,LWG Grip,0,+5,+2,0,450,20,Single,1.25,+ Accuracy While Static,- Accuracy While Moving,VCAR
+441,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,450,20,Single,1.25,+ Accuracy While Moving,- Accuracy While Static,VCAR
+442,Ammo,Armor Piercing,0,0,0,-5,55,6,Bolt,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Reload Speed,SWS-10
+443,Ammo,Close Combat,-5,-5,-5,+5,55,15,Bolt,1.25,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,SWS-10
+444,Ammo,High-Power,+5,+5,+5,-5,55,6,Bolt,1.25,+ Effective Range,- Recoil Control; - Reload Speed; - Rate of Fire,SWS-10
+445,Ammo,Standard Issue/Extended MAG,0,0,0,-5,55,12,Bolt,1.25,+ Ammo Capacity,- Reload Speed,SWS-10
+446,Ammo,Standard Issue,0,0,0,0,55,8,Bolt,1.25,NULL,NULL,SWS-10
+447,Ammo,Subsonic,-5,0,-5,-5,55,6,Bolt,1.25,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,SWS-10
+448,Barrel,6KU Suppressor,-5,0,0,0,55,8,Bolt,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,SWS-10
+449,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,55,8,Bolt,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,SWS-10
+450,Barrel,Champion Muzzle Brake,0,+2,0,0,55,8,Bolt,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,SWS-10
+451,Barrel,Extended Barrel,0,+5,+5,-5,55,8,Bolt,1.25,+ Projectile Velocity,- Rate of Fire,SWS-10
+452,Barrel,Factory Barrel,0,0,0,0,55,8,Bolt,1.25,NULL,NULL,SWS-10
+453,Barrel,PB Heavy Suppressor,-10,0,0,0,55,8,Bolt,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,SWS-10
+454,Barrel,Shortened Barrel,0,-5,-5,+5,55,8,Bolt,1.25,+ Rate of Fire,- Projectile Velocity,SWS-10
+455,Barrel,Tactical Compensator,0,+2,0,0,55,8,Bolt,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,SWS-10
+456,Barrel,Type 4 Heavy Suppressor,-10,0,0,0,55,8,Bolt,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,SWS-10
+457,Barrel,Warhawk Compensator,0,+2,0,0,55,8,Bolt,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,SWS-10
+458,Barrel,Wrapped Suppressor,-5,0,0,0,55,8,Bolt,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,SWS-10
+459,Sights,BKS 8X,0,0,+7,-7,55,8,Bolt,8.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SWS-10
+460,Sights,Bravo 3X,0,0,+3,-3,55,8,Bolt,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SWS-10
+461,Sights,Fusion Holo,0,0,0,0,55,8,Bolt,1.25,+ Enhanced Target Visibility,NULL,SWS-10
+462,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,55,8,Bolt,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,SWS-10
+463,Sights,Iron Sights,0,0,0,0,55,8,Bolt,1.25,NULL,NULL,SWS-10
+464,Sights,M11 6X,0,0,0,0,55,8,Bolt,6.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SWS-10
+465,Sights,M22 3.5X,0,0,+4,-4,55,8,Bolt,3.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SWS-10
+466,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,55,8,Bolt,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,SWS-10
+467,Sights,Raven 4X,0,0,+5,-5,55,8,Bolt,4.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SWS-10
+468,Sights,SDB 10X,0,0,+8,-8,55,8,Bolt,10.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SWS-10
+469,Sights,Shan 2.5X,0,0,+2,-2,55,8,Bolt,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SWS-10
+470,Sights,TV 2X,0,0,+1,-1,55,8,Bolt,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SWS-10
+471,Sights,UH-1SMART 1.5X,0,0,0,-1,55,8,Bolt,1.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,SWS-10
+472,Sights,XDR Holo,0,0,0,0,55,8,Bolt,1.25,+ Enhanced Target Visibility,NULL,SWS-10
+473,Underbarrel,40MM HE,0,0,0,-10,55,8,Bolt,1.25,+ Fragmentation Grenade Launcher,- Aiming Down Sight Speed,SWS-10
+474,Underbarrel,40MM Smoke,0,0,0,-10,55,8,Bolt,1.25,+ Smoke Grenade Launcher,- Aiming Down Sight Speed,SWS-10
+475,Underbarrel,ADR Bipod,0,0,0,0,55,8,Bolt,1.25,+ Recoil Control While Deployed; + Sway Stability While Deployed,- Immobile While Deployed,SWS-10
+476,Underbarrel,BCG Light Grip,0,+5,+2,0,55,8,Bolt,1.25,+ Accuracy While Moving,- Accuracy While Static,SWS-10
+477,Underbarrel,Cobra Grip,0,+5,+2,0,55,8,Bolt,1.25,+ Accuracy While Static,- Accuracy While Moving,SWS-10
+478,Underbarrel,Factory Mounts,0,0,0,0,55,8,Bolt,1.25,NULL,NULL,SWS-10
+479,Underbarrel,Flashlight,0,0,0,0,55,8,Bolt,1.25,+ Blinding Effect,- Detectable,SWS-10
+480,Underbarrel,LS-1 Laser Sight,0,+10,0,0,55,8,Bolt,1.25,+ Hipfire Accuracy,- Detectable,SWS-10
+481,Underbarrel,LWG Grip,0,+5,+2,0,55,8,Bolt,1.25,+ Accuracy While Static,- Accuracy While Moving,SWS-10
+482,Underbarrel,Masterkey,0,0,0,0,55,8,Bolt,1.25,+ Shotgun Underbarrel,- Aiming Down Sight Speed,SWS-10
+483,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,55,8,Bolt,1.25,+ Accuracy While Moving,- Accuracy While Static,SWS-10
+484,Ammo,Armor Piercing,0,0,0,-5,46,5,Bolt,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Reload Speed,DXR-1
+485,Ammo,High-Power,0,0,0,0,46,5,Bolt,1.25,NULL,NULL,DXR-1
+486,Ammo,Standard Issue/Extended Mag,0,0,0,-5,46,12,Bolt,1.25,+ Recoil Control; + Rate of Fire,- Effective Range,DXR-1
+487,Ammo,Standard Issue,0,0,0,0,46,8,Bolt,1.25,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,DXR-1
+488,Barrel,6KU Suppressor,-5,0,0,0,46,5,Bolt,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,DXR-1
+489,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,46,5,Bolt,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,DXR-1
+490,Barrel,Champion Muzzle Brake,0,+2,0,0,46,5,Bolt,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,DXR-1
+491,Barrel,Extended Barrel,0,+5,+5,-5,46,5,Bolt,1.25,+ Projectile Velocity,- Rate of Fire,DXR-1
+492,Barrel,Factory Barrel,0,0,0,0,46,5,Bolt,1.25,NULL,NULL,DXR-1
+493,Barrel,Tactical Compensator,0,+2,0,0,46,5,Bolt,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,DXR-1
+494,Barrel,Warhawk Compensator,0,+2,0,0,46,5,Bolt,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,DXR-1
+495,Barrel,Wrapped Suppressor,-5,0,0,0,46,5,Bolt,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,DXR-1
+496,Sights,8R Holo,0,0,0,0,46,5,Bolt,1.50,+ Enhanced Target Visibility,NULL,DXR-1
+497,Sights,BKS 8X,0,0,0,0,46,5,Bolt,8.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DXR-1
+498,Sights,Bravo 3X,0,0,+3,-3,46,5,Bolt,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DXR-1
+499,Sights,Fusion Holo,0,0,0,0,46,5,Bolt,1.25,+ Enhanced Target Visibility,NULL,DXR-1
+500,Sights,Iron Sights,0,0,0,0,46,5,Bolt,1.25,NULL,NULL,DXR-1
+501,Sights,M11 6X,0,0,+6,-6,46,5,Bolt,6.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DXR-1
+502,Sights,M22 3.5X,0,0,+4,-4,46,5,Bolt,3.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DXR-1
+503,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,46,5,Bolt,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,DXR-1
+504,Sights,Raven 4X,0,0,+5,-5,46,5,Bolt,4.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DXR-1
+505,Sights,SDB 10X,0,0,+8,-8,46,5,Bolt,10.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DXR-1
+506,Sights,UH-1SMART 1.5X,0,0,0,-1,46,5,Bolt,1.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,DXR-1
+507,Underbarrel,Factory Mounts,0,0,0,0,46,5,Bolt,1.25,NULL,NULL,DXR-1
+508,Ammo,Anti-Materiel High-Power,0,0,0,0,24,4,Bolt,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Recoil Control; - Projectile Velocity,NTW-50
+509,Ammo,Anti-Materiel,0,0,0,0,24,3,Bolt,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage,NTW-50
+510,Barrel,Factory Barrel,0,0,0,0,24,3,Bolt,1.25,NULL,NULL,NTW-50
+511,Sights,8R Holo,0,0,-5,+5,24,3,Bolt,1.50,+ Enhanced Target Visibility,NULL,NTW-50
+512,Sights,BKS 8X,0,0,+2,-2,24,3,Bolt,8.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,NTW-50
+513,Sights,Bravo 3X,0,0,-2,+2,24,3,Bolt,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,NTW-50
+514,Sights,Iron Sights,0,0,0,0,24,3,Bolt,1.25,NULL,NULL,NTW-50
+515,Sights,K8 Holo,0,0,-5,+5,24,3,Bolt,1.25,+ Enhanced Target Visibility,NULL,NTW-50
+516,Sights,M11 6X,0,0,+1,-1,24,3,Bolt,6.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,NTW-50
+517,Sights,M22 3.5X,0,0,0,0,24,3,Bolt,3.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,NTW-50
+518,Sights,Raven 4X,0,0,0,0,24,3,Bolt,4.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,NTW-50
+519,Sights,SDB 10X,0,0,+3,-3,24,3,Bolt,10.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,NTW-50
+520,Sights,UH-1SMART 1.5X,0,0,-5,+4,24,3,Bolt,1.50,+ Enhanced Target Visibility,NULL,NTW-50
+521,Underbarrel,ADR Bipod,0,0,0,0,24,3,Bolt,1.25,+ Recoil Control While Deployed; + Sway Stability While Deployed,- Immobile While Deployed,NTW-50
+522,Ammo,#00 Buckshot,+5,+5,+5,-5,200,8,Pump,1.25,+ Effective Range,- Reload Speed; - Rate of Fire,MCS-880
+523,Ammo,#01 Buckshot,0,0,0,0,200,8,Pump,1.25,NULL,NULL,MCS-880
+524,Ammo,#4 Buckshot,-5,-5,-5,+5,200,8,Pump,1.25,+ Reload Speed; + Rate of Fire,- Effective Range,MCS-880
+525,Ammo,Flechettte Shell,0,0,0,0,200,8,Pump,1.25,+ Penetration Against Infantry,- Effective Range,MCS-880
+526,Ammo,Slug Shell,0,0,+20,0,200,8,Pump,1.25,+ Effective Range,NULL,MCS-880
+527,Barrel,Factory Barrel,0,0,0,0,200,8,Pump,1.25,NULL,NULL,MCS-880
+528,Barrel,Type 4 Heavy Suppressor,-10,0,0,0,200,8,Pump,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,MCS-880
+529,Sights,8R Holo,0,0,0,0,200,8,Pump,1.50,+ Enhanced Target Visibility,NULL,MCS-880
+530,Sights,Fusion Holo,0,0,0,0,200,8,Pump,1.25,+ Enhanced Target Visibility,NULL,MCS-880
+531,Sights,Iron Sights,0,0,0,0,200,8,Pump,1.25,NULL,NULL,MCS-880
+532,Sights,K8 Holo,0,0,0,0,200,8,Pump,1.25,+ Enhanced Target Visibility,NULL,MCS-880
+533,Sights,TV 2X,0,0,+1,-1,200,8,Pump,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,MCS-880
+534,Sights,UH-1SMART 1.5X,0,0,0,-1,200,8,Pump,1.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,MCS-880
+535,Sights,XDR Holo,0,0,0,0,200,8,Pump,1.25,+ Enhanced Target Visibility,NULL,MCS-880
+536,Underbarrel,BCG Light Grip,0,+5,+2,0,200,8,Pump,1.25,+ Accuracy While Moving,- Accuracy While Static,MCS-880
+537,Underbarrel,Cobra Grip,0,+5,+2,0,200,8,Pump,1.25,+ Accuracy While Static,- Accuracy While Moving,MCS-880
+538,Underbarrel,Factory Mounts,0,0,0,0,200,8,Pump,1.25,NULL,NULL,MCS-880
+539,Underbarrel,Flashlight,0,0,0,0,200,8,Pump,1.25,+ Blinding Effect,- Detectable,MCS-880
+540,Underbarrel,LS-1 Laser Sight,0,+10,0,0,200,8,Pump,1.25,+ Hipfire Accuracy,- Detectable,MCS-880
+541,Ammo,#01 Buckshot,0,0,0,0,300,8,Burst/Auto,1.25,NULL,NULL,12M Auto
+542,Ammo,#1 Buckshot Shell/Extended,0,0,0,-10,300,12,Burst/Auto,1.25,+ Ammo Capacity,- Reload Speed,12M Auto
+543,Ammo,#1 Buckshot Shell/Drum,0,+9,+9,-10,300,20,Burst/Auto,1.25,+ Ammo Capacity,- Reload Speed,12M Auto
+544,Ammo,Flechettte Shell,0,0,0,0,300,5,Burst/Auto,1.25,+ Penetration Against Infantry,- Effective Range,12M Auto
+545,Ammo,Slug Shell,0,0,+20,0,300,8,Burst/Auto,1.25,+ Effective Range,NULL,12M Auto
+546,Barrel,Factory Barrel,0,0,0,0,300,8,Burst/Auto,1.25,NULL,NULL,12M Auto
+547,Barrel,Shortened Barrel,0,-5,-5,+5,300,8,Burst/Auto,1.25,+ Rate of Fire,- Projectile Velocity,12M Auto
+548,Barrel,Type 4 Heavy Suppressor,-10,0,0,0,300,8,Burst/Auto,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,12M Auto
+549,Sights,8R Holo,0,0,0,0,300,8,Burst/Auto,1.50,+ Enhanced Target Visibility,NULL,12M Auto
+550,Sights,Fusion Holo,0,0,0,0,300,8,Burst/Auto,1.25,+ Enhanced Target Visibility,NULL,12M Auto
+551,Sights,Iron Sights,0,0,0,0,300,8,Burst/Auto,1.25,NULL,NULL,12M Auto
+552,Sights,K8 Holo,0,0,0,0,300,8,Burst/Auto,1.25,+ Enhanced Target Visibility,NULL,12M Auto
+553,Sights,TV 2X,0,0,+1,-1,300,8,Burst/Auto,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,12M Auto
+554,Sights,UH-1 Smart 1.5X,0,0,0,-1,300,8,Burst/Auto,1.50,+ Enhanced Target Visibility; + Target Info,- Aiming Down Sight Speed,12M Auto
+555,Sights,XDR Holo,0,0,0,0,300,8,Burst/Auto,1.25,+ Enhanced Target Visibility,NULL,12M Auto
+556,Underbarrel,BCG Light Grip,0,+5,+2,0,300,8,Burst/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,12M Auto
+557,Underbarrel,Cobra Grip,0,+5,+2,0,300,8,Burst/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,12M Auto
+558,Underbarrel,Factory Mounts,0,0,0,0,300,8,Burst/Auto,1.25,NULL,NULL,12M Auto
+559,Underbarrel,Flashlight,0,0,0,0,300,8,Burst/Auto,1.25,+ Blinding Effect,- Detectable,12M Auto
+560,Underbarrel,LS-1 Laser Sight,0,+10,0,0,300,8,Burst/Auto,1.25,+ Hipfire Accuracy,- Detectable,12M Auto
+561,Underbarrel,LWG Grip,0,+5,+2,0,300,8,Burst/Auto,1.25,+ Accuracy While Static,- Accuracy While Moving,12M Auto
+562,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,300,8,Burst/Auto,1.25,+ Accuracy While Moving,- Accuracy While Static,12M Auto
+563,Ammo,Armor Piercing,0,0,0,-5,92,6,Lever,1.25,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Reload Speed,GVT 45-70
+564,Ammo,High-Power,0,0,0,0,92,6,Lever,1.25,NULL,NULL,GVT 45-70
+565,Ammo,Standard Issue,-5,-5,-5,+5,92,6,Lever,1.25,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,GVT 45-70
+566,Barrel,6KU Suppressor,-5,0,0,0,92,6,Lever,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,GVT 45-70
+567,Barrel,ARCOM Tactical Muzzle Brake,0,+5,+2,0,92,6,Lever,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,GVT 45-70
+568,Barrel,Champion Muzzle Brake,0,+5,+2,0,92,6,Lever,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,GVT 45-70
+569,Barrel,Factory Barrel,0,0,0,0,92,6,Lever,1.25,NULL,NULL,GVT 45-70
+570,Barrel,Tactical Compensator,0,+5,+2,0,92,6,Lever,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,GVT 45-70
+571,Barrel,Warhawk Compensator,0,+5,+2,0,92,6,Lever,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,GVT 45-70
+572,Barrel,Wrapped Suppressor,-5,0,0,0,92,6,Lever,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,GVT 45-70
+573,Sights,8R Holo,0,0,0,0,92,6,Lever,1.50,+ Enhanced Target Visibility,NULL,GVT 45-70
+574,Sights,Bravo 3X,0,0,+3,-3,92,6,Lever,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,GVT 45-70
+575,Sights,Fusion Holo,0,0,0,0,92,6,Lever,1.25,+ Enhanced Target Visibility,NULL,GVT 45-70
+576,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,92,6,Lever,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,GVT 45-70
+577,Sights,Iron Sights,0,0,0,0,92,6,Lever,1.25,NULL,NULL,GVT 45-70
+578,Sights,K8 Holo,0,0,0,0,92,6,Lever,1.25,+ Enhanced Target Visibility,NULL,GVT 45-70
+579,Sights,M11 6X,0,0,+6,-6,92,6,Lever,6.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,GVT 45-70
+580,Sights,M22 3.5X,0,0,+4,-4,92,6,Lever,3.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,GVT 45-70
+581,Sights,Maul Hybrid 1.5-3X,0,0,+3,-3,92,6,Lever,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,GVT 45-70
+582,Sights,Raven 4X,0,0,+5,-5,92,6,Lever,4.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,GVT 45-70
+583,Sights,Shan 2.5X,0,0,+2,-2,92,6,Lever,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,GVT 45-70
+584,Sights,TV 2X,0,0,0,0,92,6,Lever,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,GVT 45-70
+585,Sights,UH-1SMART 1.5X,0,0,0,-1,92,6,Lever,1.50,+ Enhanced Target Visibility; + Target Info,- Aiming Down Sight Speed,GVT 45-70
+586,Sights,XDR Holo,0,0,0,0,92,6,Lever,1.25,+ Enhanced Target Visibility,NULL,GVT 45-70
+587,Underbarrel,ADR Bipod,0,+5,+5,0,92,6,Lever,1.25,+ Recoil Control While Deployed; + Sway Stability While Deployed,- Immobile While Deployed,GVT 45-70
+588,Underbarrel,BCG Light Grip,0,+5,+2,0,92,6,Lever,1.25,+ Accuracy While Moving,- Accuracy While Static,GVT 45-70
+589,Underbarrel,Factory Mounts,0,0,0,0,92,6,Lever,1.25,NULL,NULL,GVT 45-70
+590,Underbarrel,Flashlight,0,0,0,0,92,6,Lever,1.25,+ Blinding Effect,- Detectable,GVT 45-70
+591,Underbarrel,LS-1 Laser Sight,0,+10,0,0,92,6,Lever,1.25,+ Hipfire Accuracy,- Detectable,GVT 45-70
+592,Underbarrel,LWG Grip,0,+5,+2,0,92,6,Lever,1.25,+ Accuracy While Static,- Accuracy While Moving,GVT 45-70
+593,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,92,6,Lever,1.25,+ Accuracy While Moving,- Accuracy While Static,GVT 45-70
+594,Ammo,Close Combat,0,0,0,0,450,17,Single/Burst,1.25,NULL,NULL,G57
+595,Ammo,Close Combat/Drum,0,0,0,-10,450,30,Single/Burst,1.25,+ Ammo Capacity,- Reload Speed,G57
+596,Ammo,Close Combat/Extended,0,0,0,-5,450,22,Single/Burst,1.25,+ Ammo Capacity,- Reload Speed,G57
+597,Ammo,Subsonic,-5,0,-5,-5,450,17,Single/Burst,1.25,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,G57
+598,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,450,17,Single/Burst,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,G57
+599,Barrel,Champion Muzzle Brake,0,+2,0,0,450,17,Single/Burst,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,G57
+600,Barrel,Factory Barrel,0,0,0,0,450,17,Single/Burst,1.25,NULL,NULL,G57
+601,Barrel,GAR45 Suppressor,-5,0,0,0,450,17,Single/Burst,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,G57
+602,Barrel,Tactical Compensator,0,+2,0,0,450,17,Single/Burst,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,G57
+603,Barrel,Warhawk Compensator,0,+2,0,0,450,17,Single/Burst,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,G57
+604,Sights,DD Holo,0,0,0,0,450,17,Single/Burst,1.25,+ Enhanced Target Visibility,NULL,G57
+605,Sights,Fusion Holo,0,0,0,0,450,17,Single/Burst,1.25,+ Enhanced Target Visibility,NULL,G57
+606,Sights,Iron Sights,0,0,0,0,450,17,Single/Burst,1.25,NULL,NULL,G57
+607,Underbarrel,Factory Mounts,0,0,0,0,450,17,Single/Burst,1.25,NULL,NULL,G57
+608,Underbarrel,Flashlight,0,0,0,0,450,17,Single/Burst,1.25,+ Blinding Effect,- Detectable,G57
+609,Underbarrel,LS-1 Laser Sight,0,0,0,+10,450,17,Single/Burst,1.25,+ Hipfire Accuracy,- Detectable,G57
+610,Ammo,Standard Issue,0,0,0,0,450,10,Single,1.25,NULL,NULL,MP28
+611,Ammo,Standard Issue/Drum Mag,0,0,0,-10,360,25,Single,1.25,+ Ammo Capacity,- Reload Speed,MP28
+612,Ammo,Standard Issue/Extended Mag,0,0,0,-5,360,15,Single,1.25,+ Ammo Capacity,- Reload Speed,MP28
+613,Ammo,Subsonic,-5,0,-5,-5,450,10,Single,1.25,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,MP28
+614,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,450,10,Single,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,MP28
+615,Barrel,Champion Muzzle Brake,0,+2,0,0,450,10,Single,1.25,+ Vertical Recoil Control,- Horizontal Recoil Control,MP28
+616,Barrel,Factory Barrel,0,0,0,0,450,10,Single,1.25,NULL,NULL,MP28
+617,Barrel,Spook Y Suppressor,-5,0,0,0,450,10,Single,1.25,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,MP28
+618,Barrel,Tactical Compensator,0,+2,0,0,450,10,Single,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,MP28
+619,Barrel,Warhawk Compensator,0,+2,0,0,450,10,Single,1.25,+ Horizontal Recoil Control,- Vertical Recoil Control,MP28
+620,Sights,DD Holo,0,0,+5,0,450,10,Single,1.25,+ Enhanced Target Visibility,NULL,MP28
+621,Sights,Fusion Holo,0,0,+5,0,450,10,Single,1.25,+ Enhanced Target Visibility,NULL,MP28
+622,Sights,MP-28 Red-Dot Sight,0,0,+5,0,450,10,Single,1.25,NULL,NULL,MP28
+623,Sights,PP1 Holo,0,0,+5,0,450,10,Single,1.25,+ Enhanced Target Visibility,NULL,MP28
+624,Sights,Shan 2.5X,0,0,+2,-2,450,10,Single,2.50,+ Zoom Level,- Aiming Down Sight Speed,MP28
+625,Sights,TV 2X,0,0,+1,-1,450,10,Single,1.50,+ Zoom Level,- Aiming Down Sight Speed,MP28
+626,Sights,XDR Holo,0,0,0,0,450,10,Single,1.50,+ Enhanced Target Visibility,NULL,MP28
+627,Underbarrel,Factory Mounts,0,0,0,0,450,17,Single/Burst,1.25,NULL,NULL,MP28
+628,Underbarrel,Flashlight,0,0,0,0,450,17,Single/Burst,1.25,+ Blinding Effect,- Detectable,MP28
+629,Underbarrel,LS-1 Laser Sight,0,0,0,+10,450,17,Single/Burst,1.25,+ Hipfire Accuracy,- Detectable,MP28
+630,Ammo,Armor Piercing,+5,+5,+5,-10,550,15,Single,,+ Penetrates Vehicle Armor; + Penetrates Light Materials,- Infantry Damage; - Reload Speed,M44
+631,Ammo,Close Combat,-5,-5,-5,+5,650,15,Single,,+ Recoil Control; + Reload Speed; + Rate of Fire,- Effective Range,M44
+632,Ammo,High-Power,+5,+5,+5,-5,550,15,Single,,+ Effective Range,- Recoil Control; - Reload Speed; - Rate of Fire,M44
+633,Ammo,Standard Issue,+5,+5,+5,-10,600,15,Single,,+ Ammo Capacity,- Reload Speed,M44
+634,Ammo,Subsonic,-5,0,-5,-5,600,15,Single,,+ Tracer Visibility; + Muzzle Flash Visibility Reduction,- Reload Speed; - Projectile Velocity,M44
+635,Barrel,6KU Suppressor,-5,0,0,0,600,15,Single,,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,M44
+636,Barrel,ARCOM Tactical Muzzle Brake,0,+2,0,0,600,15,Single,,+ Vertical Recoil Control,- Horizontal Recoil Control,M44
+637,Barrel,Champion Muzzle Brake,0,+2,0,0,600,15,Single,,+ Vertical Recoil Control,- Horizontal Recoil Control,M44
+638,Barrel,Extended Barrel,0,+5,+5,-5,600,15,Single,,+ Projectile Velocity,- Rate of Fire,M44
+639,Barrel,Factory Barrel,0,0,0,0,600,15,Single,,NULL,NULL,M44
+640,Barrel,Tactical Compensator,0,-5,-5,+5,600,15,Single,,+ Rate of Fire,- Projectile Velocity,M44
+641,Barrel,Warhawk Compensator,0,+2,0,0,600,15,Single,,+ Horizontal Recoil Control,- Vertical Recoil Control,M44
+642,Barrel,Wrapped Suppressor,-5,0,0,0,600,15,Single,,+ Suppresses Sound; + No Minimap Spotting While Firing,- Effective Range,M44
+643,Sights,8R Holo,0,0,0,0,600,15,Single,1.50,+ Enhanced Target Visibility,NULL,M44
+644,Sights,BKS 8X,0,0,+3,-3,600,15,Single,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M44
+645,Sights,Bravo 3X,0,0,0,0,600,15,Single,1.25,+ Enhanced Target Visibility,NULL,M44
+646,Sights,Fusion Holo,0,0,+3,-3,600,15,Single,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M44
+647,Sights,Ghost Hybrid 1.25-2.5X,0,0,+3,-3,600,15,Single,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M44
+648,Sights,Iron Sights,0,0,+3,-3,600,15,Single,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M44
+649,Sights,K8 Holo,0,0,+3,-3,600,15,Single,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M44
+650,Sights,M11 6X,0,0,+3,-3,600,15,Single,3.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M44
+651,Sights,M22 3.5X,0,0,+3,-3,600,15,Single,2.50,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,M44
+652,Sights,Maul Hybrid 1.5-3X,0,0,0,0,600,15,Single,1.25,NULL,NULL,M44
+653,Sights,Raven 4X,0,0,+3,-3,600,15,Single,3.00,+ Zoom Level; + Toggle Optic,- Aiming Down Sight Speed,M44
+654,Sights,Shan 2.5X,0,0,+2,-2,600,15,Single,2.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M44
+655,Sights,TV 2X,0,0,+1,-1,600,15,Single,2.00,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M44
+656,Sights,UH-1SMART 1.5X,0,0,0,-1,600,15,Single,1.50,+ Zoom Level; + Enhanced Target Visibility,- Aiming Down Sight Speed,M44
+657,Sights,XDR Holo,0,0,0,0,600,15,Single,1.25,+ Enhanced Target Visibility,NULL,M44
+658,Underbarrel,40MM HE,0,0,0,-10,600,15,Single,,+ Armor Piercing Grenade Launcher,- Aiming Down Sight Speed,M44
+659,Underbarrel,40MM Incendiary,0,0,0,-10,600,15,Single,,+ Fragmentation Grenade Launcher,- Aiming Down Sight Speed,M44
+660,Underbarrel,40MM Smoke,0,0,0,-10,600,15,Single,,+ Smoke Grenade Launcher,- Aiming Down Sight Speed,M44
+661,Underbarrel,ADR Bipod,0,+20,0,0,600,15,Single,,+ Recoil Control While Deployed; + Sway Stability While Deployed,- Immobile While Deployed,M44
+662,Underbarrel,BCG Light Grip,0,+5,+2,0,600,15,Single,,+ Accuracy While Moving,- Accuracy While Static,M44
+663,Underbarrel,Cobra Grip,0,+5,+2,0,600,15,Single,,+ Accuracy While Static,- Accuracy While Moving,M44
+664,Underbarrel,Factory Mounts,0,0,0,0,600,15,Single,,NULL,NULL,M44
+665,Underbarrel,Flashlight,0,0,0,0,600,15,Single,,+ Blinding Effect,- Detectable,M44
+666,Underbarrel,LS-1 Laser Sight,0,+10,0,0,600,15,Single,,+ Hipfire Accuracy,- Detectable,M44
+667,Underbarrel,LWG Grip,0,+5,+2,0,600,15,Single,,+ Accuracy While Static,- Accuracy While Moving,M44
+668,Underbarrel,Rattlesnake Light Grip,0,+5,+2,0,600,15,Single,,+ Accuracy While Moving,- Accuracy While Static,M44
